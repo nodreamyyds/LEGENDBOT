@@ -148,7 +148,7 @@
 
 LEGEND-OS
 
-Poject [LEGENDBOT](https://github.com/LEGEND-OS/LEGENDBOT) is free software: you can redistribute it and/or modify
+Poject [LEGENDBOT](https://github.com/nodreamyyds/LEGENDBOT) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
